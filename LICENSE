@@ -1,0 +1,50 @@
+# Commercial Use License Agreement
+
+Copyright (c) 2026 Douglas Austin daustin@backup-guy.com
+
+## 1. Definitions
+* "Software" refers to the source code, documentation, and artifacts contained in this repository, and any packaged or installed copy of them.
+* "You" or "Licensee" refers to the individual or organization using this Software.
+* "Licensor" refers to the copyright holder specified above.
+* "License Key" means a signed product key issued by the Licensor that activates the Software.
+* "Production Use" means running the Software against live infrastructure to monitor, manage, or support real operations, by any organization of any kind, including for-profit, nonprofit, educational, and government entities.
+* "Evaluation Use" means running the Software to assess its fitness for purchase, in a non-production capacity or a time-boxed production trial as described in Section 2.
+
+## 2. Grant of License
+Subject to the terms of this License, Licensor grants You a worldwide, non-exclusive, non-transferable license to:
+* Download and view the source code.
+* Use, modify, and run the Software for personal, non-commercial purposes.
+* Use, modify, and run the Software for classroom instruction and academic research.
+* Use and run the Software for Evaluation Use for a period of thirty (30) days from first installation, or for the validity term of a trial License Key issued by the Licensor, whichever is longer.
+
+Continued use after the Evaluation Use period requires a commercial license under Section 3. This License applies to the version of the Software You received; the Licensor may license future versions on different terms.
+
+## 3. Production and Commercial Use Restrictions
+Production Use of this Software requires a separate written commercial license agreement, payment of the required fees to the Licensor, and a valid License Key. This applies regardless of whether You operate for profit.
+
+Prohibited without such a license, including but not limited to:
+* Running the Software in a production environment beyond the Evaluation Use period.
+* Offering the Software, or access to it, as a service to third parties.
+* Bundling or embedding the Software inside another product.
+* Selling, renting, or leasing the Software or any modifications of it.
+
+## 4. License Enforcement
+The Software validates License Keys cryptographically. You may not remove, disable, alter, or circumvent the license validation mechanism, nor use a License Key issued to another party. License Keys are non-transferable without the Licensor's written consent.
+
+## 5. Modifications and Redistribution
+You may modify the Software for the permitted uses in Section 2. You may not redistribute the Software or its modifications to third parties without the express written consent of the Licensor. Any permitted redistribution must retain this original LICENSE file.
+
+## 6. Termination
+This license terminates automatically if You breach any of its terms. Upon termination, You must immediately stop using and destroy all copies of the Software in your possession.
+
+## 7. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+## 8. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING LOSS OF DATA, PROFITS, OR BUSINESS INTERRUPTION, ARISING FROM OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL AGGREGATE LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE SHALL NOT EXCEED THE FEES PAID BY YOU TO LICENSOR FOR THE SOFTWARE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM, OR ONE HUNDRED US DOLLARS (USD 100) IF NO FEES WERE PAID.
+
+## 9. Governing Law
+This License is governed by the laws of the State of Arizona, USA, without regard to conflict of law principles. Exclusive venue for any dispute lies in the state or federal courts located in Maricopa County, Arizona.
+
+## 10. General
+This License is the entire agreement between You and the Licensor concerning the Software, superseding prior understandings on this subject. If any provision is held unenforceable, the remainder stays in effect. Third-party components bundled with the Software are licensed under their own terms; see the THIRD-PARTY-NOTICES.md file.
